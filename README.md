@@ -12,7 +12,7 @@ Download film_grain.py and drop it into the scripts folder in the webui
 
 Select "Add Film Grain" from the scripts dropdown on text2img or img2img - set desired noise. I find 5-10 looks good. 0 is none, 100 is all noise.
 
-![screenshot of this plugin in the UI](example.png)
+![screenshot of this plugin in the UI](example.PNG)
 
 ## Contributing
 
